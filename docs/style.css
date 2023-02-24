@@ -1,0 +1,10 @@
+h1 {
+  color: gray;
+  text-align: center;
+}
+
+p {
+  text-decoration: wavy;
+  text-shadow: 1px solid red;
+  color: green;
+}
